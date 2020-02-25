@@ -17,6 +17,9 @@ https://github.com/spring-projects/spring-framework/issues/21325 (-> Zheng ?)
 
 https://github.com/eirslett/frontend-maven-plugin/issues/557
 
+### commons-configuration
+
+https://issues.apache.org/jira/browse/CONFIGURATION-580 :innocent:
 
 
 ## Javascript
