@@ -1,5 +1,6 @@
 # Journée opensource du SNDIP
 
+https://demo.codimd.org/p/ryFsFNfE8#/
 
 > :calendar: **date** 25/02/2019
 > :globe_with_meridians: **lieu** Fairway (salles F6/F7)
