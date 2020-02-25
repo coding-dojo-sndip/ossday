@@ -50,12 +50,6 @@ On fournira des viennoiseries, des bonbons et des boissons chaudes 🥐 ! Et les
 
 par mail : cedric.couralet@insee.fr
 
-ou en remplissant ce tableau : 
-https://ethercalc.alpha.innovation.insee.eu/journee-oss-sndip-20200225
-
-<iframe src="https://ethercalc.alpha.innovation.insee.eu/journee-oss-sndip-20200225/view" width="100%" height="400" frameborder=0 ></iframe>
-
-
 ## Exemples de projets open source sur lesquels contribuer
 
 * [Maven](http://maven.apache.org/guides/development/guide-helping.html)
